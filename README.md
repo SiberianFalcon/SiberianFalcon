@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Работаю в коммерческой разработке 2 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Bash<br>- Django<br>- FastAPI<br>- Docker<br>- Nginx<br>- PostgreSQL<br>- SQLAlchemy<br>- Aiogram<br>- Selenium<br>- HTML<br>- Vue.Js</h4>
+<h4 align="left">Работаю в коммерческой разработке 2 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Django<br>- FastAPI<br>- Docker<br>- Nginx<br>- PostgreSQL<br>- SQLAlchemy<br>- Aiogram<br>- Selenium<br>- HTML<br>- Vue.Js</h4>
 
 ###
 
