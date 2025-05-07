@@ -2,14 +2,12 @@
 
 ###
 
-<h4 align="left">Работаю в коммерческой разработке 3 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Django<br>- FastAPI<br>- Docker<br>- Nginx<br>- PostgreSQL<br>- SQLAlchemy<br>-
+<h4 align="left">Работаю в коммерческой разработке 3 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Django<br>- FastAPI<br>- Docker<br>- Nginx<br>- PostgreSQL<br>- SQLAlchemy<br>
 
 ###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
