@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Работаю в коммерческой разработке 3 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Django<br>- FastAPI<br>- Docker<br>- Nginx<br>- PostgreSQL<br>- SQLAlchemy<br>- Aiogram<br>- Selenium<br>- HTML<br>- Vue.Js</h4>
+<h4 align="left">Работаю в коммерческой разработке 3 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Django<br>- FastAPI<br>- Docker<br>- Nginx<br>- PostgreSQL<br>- SQLAlchemy<br>-
 
 ###
 
@@ -25,11 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
 ###
