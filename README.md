@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Работаю в коммерческой разработке 3 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Django<br>- FastAPI<br>- Docker<br>- Nginx<br>- PostgreSQL<br>- SQLAlchemy<br>
+<h4 align="left">Работаю в коммерческой разработке 3 года, пишу web-приложения, Телеграм-ботов и частично выполняю функции DevOps<br><br>Мой стек:<br>- Python<br>- Django<br>- FastAPI<br>- Docker<br>- PostgreSQL<br>
 
 ###
 
@@ -18,10 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
 </div>
 
