@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Python-developer with 3-year experience<br><br>My Stack:<br>- Python<br>- Pytest<br>- FastAPI<br>- Django<br>- ELK<br>- Redis<br>- Celery
+<h4 align="left">Python-developer<br><br>My Stack:<br>- Python<br>- Pytest<br>- FastAPI<br>- Django<br>- ELK<br>- Redis<br>- Celery
 
 ###
 
